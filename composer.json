@@ -1,7 +1,6 @@
 {
     "name" : "kregel/skel",
-    "description": "PHP Skeleton package",
-    "homepage": "https://github.com/austinkregel/skel-php",
+    "description": "Skel package",
     "license": "MIT",
     "authors": [],
     "require": {
