@@ -1,2 +1,2 @@
 # skel
-A skeleton PHP project
+A skel PHP project
