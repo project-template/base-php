@@ -3,14 +3,7 @@
     "description": "PHP Skeleton package",
     "homepage": "https://github.com/austinkregel/skel-php",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Austin Kregel",
-            "email": "github@austinkregel.com",
-            "homepage": "https://austinkregel.com",
-            "role": "Developer"
-        }
-    ],
+    "authors": [],
     "require": {
         "php": ">=7.0"
     },
